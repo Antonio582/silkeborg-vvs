@@ -136,7 +136,7 @@ export default function VVSInstallationClient() {
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
                   Når du skal have udført VVS-installation i Silkeborg, er det vigtigt at vælge en autoriseret
-                  VVS-installatør med den rette erfaring og ekspertise. Hos [FIRMA NAVN] har vi mange års
+                  VVS-installatør med den rette erfaring og ekspertise. Hos Søhøjlandets VVS har vi mange års
                   erfaring med alle typer vandinstallationer — fra simple reparationer til omfattende
                   renoveringsprojekter i hele Silkeborg og omegn. Har du brug for{" "}
                   <Link href="/akut-vvs" className="text-teal hover:text-teal-dark underline">akut VVS-hjælp</Link>, rykker vi ud inden for 60 minutter.

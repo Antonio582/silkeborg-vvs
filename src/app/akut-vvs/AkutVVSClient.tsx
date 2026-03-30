@@ -153,7 +153,7 @@ export default function AkutVVSClient() {
                   Akutte VVS-problemer kan opstå når som helst — og når de rammer, er det vigtigt
                   at handle hurtigt. Et sprængt vandrør, et tilstoppet afløb eller en pludselig
                   vandskade kan forårsage omfattende skader på din bolig og dine ejendele, hvis
-                  det ikke håndteres med det samme. Hos [FIRMA NAVN] tilbyder vi akut VVS-service
+                  det ikke håndteres med det samme. Hos Søhøjlandets VVS tilbyder vi akut VVS-service
                   med hurtig udrykning i hele Silkeborg og omegn.
                 </p>
                 <p>
@@ -295,7 +295,7 @@ export default function AkutVVSClient() {
               {
                 step: "3",
                 title: "Kontakt os",
-                desc: "Kontakt [FIRMA NAVN] på . Fortæl kort hvad der er sket, og vi sender en VVS-montør ud hurtigst muligt.",
+                desc: "Kontakt Søhøjlandets VVS på . Fortæl kort hvad der er sket, og vi sender en VVS-montør ud hurtigst muligt.",
               },
               {
                 step: "4",

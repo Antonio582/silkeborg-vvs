@@ -144,7 +144,7 @@ export default function PriserClient() {
                   konkret tilbud tilpasset dine behov.
                 </p>
                 <p>
-                  Hos [FIRMA NAVN] arbejder vi med konkurrencedygtige priser uden at gå på kompromis
+                  Hos Søhøjlandets VVS arbejder vi med konkurrencedygtige priser uden at gå på kompromis
                   med kvaliteten. Vi bruger anerkendte materialer fra førende producenter som Grohe,
                   Geberit og Uponor, hvilket sikrer holdbare installationer der fungerer optimalt i
                   mange år. Billige løsninger kan virke tillokkende, men de koster ofte mere på lang

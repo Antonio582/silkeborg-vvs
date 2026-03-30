@@ -2,7 +2,7 @@ export default function LocalBusinessSchema() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Plumber",
-    name: "[FIRMA NAVN]",
+    name: "Søhøjlandets VVS",
     description: "Autoriseret VVS-installatør i Silkeborg. VVS-installation, varmepumper, blikkenslagerarbejde, akut VVS og kloakarbejde.",
     url: "https://silkeborg-vvs.dk",
     telephone: "",

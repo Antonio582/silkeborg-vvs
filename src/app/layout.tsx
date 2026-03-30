@@ -13,8 +13,8 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL("https://silkeborg-vvs.dk"),
   title: {
-    default: "VVS Silkeborg | Autoriseret VVS-installatør — [FIRMA NAVN]",
-    template: "%s | [FIRMA NAVN] — VVS Silkeborg",
+    default: "VVS Silkeborg | Autoriseret VVS-installatør — Søhøjlandets VVS",
+    template: "%s | Søhøjlandets VVS — VVS Silkeborg",
   },
   description:
     "Autoriseret VVS-installatør i Silkeborg. Vi tilbyder VVS-installation, varmepumper, blikkenslagerarbejde, akut VVS og kloak. Kontakt os i dag",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "VVS Silkeborg | Autoriseret VVS-installatør — [FIRMA NAVN]",
+    title: "VVS Silkeborg | Autoriseret VVS-installatør — Søhøjlandets VVS",
     description:
       "Autoriseret VVS-installatør i Silkeborg. Vi tilbyder VVS-installation, varmepumper, blikkenslagerarbejde, akut VVS og kloak. Kontakt os i dag",
     images: ["/images/vvs-vaerktoj-1.jpg"],
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "da_DK",
-    siteName: "[FIRMA NAVN]",
+    siteName: "Søhøjlandets VVS",
     url: "https://silkeborg-vvs.dk",
     images: [
       {

@@ -4,7 +4,7 @@ import VarmeClient from "./VarmeClient";
 export const metadata: Metadata = {
   title: "Varmepumpe Silkeborg | Varme og varmepumper",
   description:
-    "Installation af varmepumper, fjernvarme, gulvvarme og centralvarme i Silkeborg. Autoriseret VVS-installatør. Spar op til 70% på din varmeregning. Kontakt os.",
+    "Varmepumper, fjernvarme, gulvvarme og centralvarme i Silkeborg. Autoriseret VVS-installatør. Spar op til 70% på varmeregningen.",
   alternates: {
     canonical: "https://silkeborg-vvs.dk/varme-varmepumper",
     languages: { "da-DK": "https://silkeborg-vvs.dk/varme-varmepumper" },
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Varmepumpe Silkeborg | Varme og varmepumper",
-    description: "Installation af varmepumper, fjernvarme, gulvvarme og centralvarme i Silkeborg. Spar op til 70% på varmeregningen. Kontakt os for tilbud.",
+    description: "Varmepumper, fjernvarme, gulvvarme og centralvarme i Silkeborg. Spar op til 70% på varmeregningen. Få tilbud.",
     images: ["/images/varmeinstallation-1.jpg"],
   },
   openGraph: {

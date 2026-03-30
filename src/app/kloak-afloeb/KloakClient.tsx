@@ -121,7 +121,7 @@ export default function KloakClient() {
                 <p>
                   Et velfungerende kloaksystem er afgørende for din boligs sundhed og værdi. Med tiden
                   kan kloakrør blive beskadiget af rødder, sætninger, korrosion eller aldersrelateret
-                  slid, hvilket kan føre til tilstopning, oversvømmelse og lugtgener. Hos [FIRMA NAVN]
+                  slid, hvilket kan føre til tilstopning, oversvømmelse og lugtgener. Hos Søhøjlandets VVS
                   er vi specialister i alle aspekter af kloakarbejde i Silkeborg.
                 </p>
                 <p>

@@ -31,7 +31,7 @@ export default function ArticleSchema({
     },
     publisher: {
       "@type": "Organization",
-      name: "[FIRMA NAVN]",
+      name: "Søhøjlandets VVS",
       url: "https://silkeborg-vvs.dk",
       logo: {
         "@type": "ImageObject",

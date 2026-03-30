@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {/* Info */}
           <div>
-            <h3 className="font-heading text-white text-lg mb-4">[FIRMA NAVN]</h3>
+            <h3 className="font-heading text-white text-lg mb-4">Søhøjlandets VVS</h3>
             <p className="text-sm leading-relaxed mb-4">
               Autoriseret VVS-installatør i Silkeborg med mange års erfaring inden for
               vandinstallation, varmeanlæg, blikkenslagerarbejde og kloakarbejde.
@@ -57,7 +57,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-sm text-gray-500">
-          <p>&copy; {new Date().getFullYear()} [FIRMA NAVN]. Alle rettigheder forbeholdes.</p>
+          <p>&copy; {new Date().getFullYear()} Søhøjlandets VVS. Alle rettigheder forbeholdes.</p>
         </div>
       </div>
     </footer>

@@ -285,7 +285,7 @@ export default function KontaktClient() {
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
                   Når du vælger VVS-installatør i Silkeborg, er det vigtigt at vælge en virksomhed
-                  med den rette erfaring, autorisation og lokalkendskab. Hos [FIRMA NAVN] kombinerer
+                  med den rette erfaring, autorisation og lokalkendskab. Hos Søhøjlandets VVS kombinerer
                   vi mange års faglig ekspertise med et dybt kendskab til Silkeborg og omegns
                   bygninger, vandforsyning og kloaksystemer. Vi er ikke bare en VVS-virksomhed — vi
                   er din lokale samarbejdspartner.

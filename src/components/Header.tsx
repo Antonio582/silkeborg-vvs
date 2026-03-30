@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
@@ -21,8 +22,9 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 bg-sand/80 backdrop-blur-md border-b border-gray-200/50">
       <div className="max-w-[1200px] mx-auto px-6 flex items-center justify-between h-16">
-        <Link href="/" className="font-heading text-xl text-gray-900">
-          [FIRMA NAVN]
+        <Link href="/" className="flex items-center gap-2">
+          <Image src="/logo.png" alt="Søhøjlandets VVS" width={40} height={40} className="rounded" />
+          <span className="font-heading text-xl text-gray-900">Søhøjlandets VVS</span>
         </Link>
 
         {/* Desktop nav */}

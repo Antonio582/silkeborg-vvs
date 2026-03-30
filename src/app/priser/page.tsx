@@ -4,7 +4,7 @@ import PriserClient from "./PriserClient";
 export const metadata: Metadata = {
   title: "VVS Priser Silkeborg | Gennemsigtige priser",
   description:
-    "Se vores priser for VVS-arbejde i Silkeborg. Gennemsigtige og konkurrencedygtige priser for VVS-installation, varmepumper, blikkenslager og kloak. Kontakt os.",
+    "Se priser for VVS-arbejde i Silkeborg. Gennemsigtige priser på VVS-installation, varmepumper, blikkenslager og kloak. Få tilbud.",
   alternates: {
     canonical: "https://silkeborg-vvs.dk/priser",
     languages: { "da-DK": "https://silkeborg-vvs.dk/priser" },
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "VVS Priser Silkeborg | Gennemsigtige priser",
-    description: "Se priser for VVS-arbejde i Silkeborg. Gennemsigtige priser for VVS, varmepumper, blikkenslager og kloak. Kontakt os for tilbud.",
+    description: "Se priser for VVS-arbejde i Silkeborg. Gennemsigtige priser på VVS, varmepumper, blikkenslager og kloak. Få tilbud.",
     images: ["/images/kobberroer-1.jpg"],
   },
   openGraph: {

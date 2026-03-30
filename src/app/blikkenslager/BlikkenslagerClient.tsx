@@ -68,7 +68,7 @@ export default function BlikkenslagerClient() {
                 <p>
                   Godt blikkenslagerarbejde er afgørende for at beskytte din bolig mod vejr og vind.
                   Tagrender, nedløbsrør og inddækninger sørger for at regnvand ledes sikkert væk fra
-                  bygningen, og forhindrer fugtskader på tag, facade og fundament. Hos [FIRMA NAVN]
+                  bygningen, og forhindrer fugtskader på tag, facade og fundament. Hos Søhøjlandets VVS
                   har vi mange års erfaring med alle typer blikkenslagerarbejde i Silkeborg og omegn.
                 </p>
                 <p>
@@ -113,7 +113,7 @@ export default function BlikkenslagerClient() {
                   lille investering der kan spare dig for store reparationsudgifter på sigt.
                 </p>
                 <p>
-                  Hos [FIRMA NAVN] benytter vi udelukkende kvalitetsmaterialer fra anerkendte
+                  Hos Søhøjlandets VVS benytter vi udelukkende kvalitetsmaterialer fra anerkendte
                   leverandører. Vores zinktagrender leveres med lang garanti, og vi står naturligvis
                   inde for kvaliteten af vores håndværk.{" "}
                   <Link href="/kontakt" className="text-teal hover:text-teal-dark underline">Kontakt os</Link> for en uforpligtende besigtigelse
