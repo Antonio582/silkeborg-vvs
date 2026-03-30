@@ -66,12 +66,12 @@ const faqItems = [
   {
     question: "Har I døgnvagt for VVS?",
     answer:
-      "Ja, vi har VVS-døgnvagt i Silkeborg. Du kan ringe til os på [TELEFON] døgnet rundt ved akutte VVS-problemer. Uden for normal arbejdstid og i weekender vil der være et vagttillæg på prisen.",
+      "Ja, vi har VVS-døgnvagt i Silkeborg. Du kan kontakte os  døgnet rundt ved akutte VVS-problemer. Uden for normal arbejdstid og i weekender vil der være et vagttillæg på prisen.",
   },
   {
     question: "Hvad skal jeg gøre ved et sprængt vandrør?",
     answer:
-      "Luk straks for hovedhanen (typisk i bryggers eller ved vandmåleren). Sluk for varmtvandsapparatet. Saml op så meget vand som muligt for at begrænse skaden. Ring derefter til os på [TELEFON] — vi rykker hurtigt ud og ordner problemet.",
+      "Luk straks for hovedhanen (typisk i bryggers eller ved vandmåleren). Sluk for varmtvandsapparatet. Saml op så meget vand som muligt for at begrænse skaden. Kontakt os derefter til os på  — vi rykker hurtigt ud og ordner problemet.",
   },
   {
     question: "Dækker forsikringen akut VVS-arbejde?",
@@ -114,16 +114,16 @@ export default function AkutVVSClient() {
                 <span className="font-heading text-terracotta text-lg">Akut VVS-hjælp?</span>
               </div>
               <p className="text-gray-700">
-                Ring til os nu — vi rykker ud inden for 60 minutter i Silkeborg og omegn.
+                Kontakt os nu — vi rykker ud inden for 60 minutter i Silkeborg og omegn.
               </p>
               <Link
-                href="tel:[TELEFON]"
+                href="/kontakt"
                 className="inline-flex items-center gap-2 bg-terracotta text-white px-6 py-3 rounded-lg font-medium hover:bg-terracotta-light transition-colors shrink-0"
               >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                   <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.79 19.79 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z" />
                 </svg>
-                Ring [TELEFON]
+                Kontakt os
               </Link>
             </div>
           </AnimatedSection>
@@ -294,8 +294,8 @@ export default function AkutVVSClient() {
               },
               {
                 step: "3",
-                title: "Ring til os",
-                desc: "Kontakt [FIRMA NAVN] på [TELEFON]. Fortæl kort hvad der er sket, og vi sender en VVS-montør ud hurtigst muligt.",
+                title: "Kontakt os",
+                desc: "Kontakt [FIRMA NAVN] på . Fortæl kort hvad der er sket, og vi sender en VVS-montør ud hurtigst muligt.",
               },
               {
                 step: "4",
@@ -356,7 +356,7 @@ export default function AkutVVSClient() {
 
       <CTASection
         title="Akut VVS-problem?"
-        description="Ring nu — vi er klar til at hjælpe dig 24/7 i hele Silkeborg."
+        description="Kontakt os — vi er klar til at hjælpe dig 24/7 i hele Silkeborg."
       />
     </>
   );

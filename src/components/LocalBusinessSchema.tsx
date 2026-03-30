@@ -5,7 +5,7 @@ export default function LocalBusinessSchema() {
     name: "[FIRMA NAVN]",
     description: "Autoriseret VVS-installatør i Silkeborg. VVS-installation, varmepumper, blikkenslagerarbejde, akut VVS og kloakarbejde.",
     url: "https://silkeborg-vvs.dk",
-    telephone: "[TELEFON]",
+    telephone: "",
     address: {
       "@type": "PostalAddress",
       streetAddress: "[ADRESSE]",

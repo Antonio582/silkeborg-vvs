@@ -4,7 +4,7 @@ import BlikkenslagerClient from "./BlikkenslagerClient";
 export const metadata: Metadata = {
   title: "Blikkenslager Silkeborg | Tagrender og zinkarbejde",
   description:
-    "Professionelt blikkenslagerarbejde i Silkeborg. Tagrender, nedløbsrør, inddækninger og zinkarbejde. Autoriseret og erfaren blikkenslager. Ring [TELEFON].",
+    "Professionelt blikkenslagerarbejde i Silkeborg. Tagrender, nedløbsrør, inddækninger og zinkarbejde. Autoriseret og erfaren blikkenslager. Kontakt os.",
   alternates: {
     canonical: "https://silkeborg-vvs.dk/blikkenslager",
     languages: { "da-DK": "https://silkeborg-vvs.dk/blikkenslager" },
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Blikkenslager Silkeborg | Tagrender og zinkarbejde",
-    description: "Professionelt blikkenslagerarbejde i Silkeborg. Tagrender, nedløbsrør, inddækninger og zinkarbejde. Ring for tilbud.",
+    description: "Professionelt blikkenslagerarbejde i Silkeborg. Tagrender, nedløbsrør, inddækninger og zinkarbejde. Kontakt os for tilbud.",
     images: ["/images/tagrender-1.jpg"],
   },
   openGraph: {

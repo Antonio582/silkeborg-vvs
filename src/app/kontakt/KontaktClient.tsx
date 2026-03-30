@@ -80,12 +80,12 @@ const faqItems = [
   {
     question: "Hvordan får jeg et tilbud?",
     answer:
-      "Du kan kontakte os via kontaktformularen på denne side, ringe til os på [TELEFON] eller sende en mail til info@silkeborg-vvs.dk. Vi aftaler en besigtigelse, og derefter modtager du et detaljeret tilbud med fast pris inden for 1-3 hverdage.",
+      "Du kan kontakte os via kontaktformularen på denne side, kontakte os  eller sende en mail til info@silkeborg-vvs.dk. Vi aftaler en besigtigelse, og derefter modtager du et detaljeret tilbud med fast pris inden for 1-3 hverdage.",
   },
   {
     question: "Hvad er jeres åbningstider?",
     answer:
-      "Vores normale åbningstider er mandag-fredag 07:00-16:00. Vi har akut VVS-døgnvagt, hvor du kan ringe til os på [TELEFON] døgnet rundt ved akutte situationer. Uden for normal arbejdstid tillægges vagttillæg.",
+      "Vores normale åbningstider er mandag-fredag 07:00-16:00. Vi har akut VVS-døgnvagt, hvor du kan kontakte os  døgnet rundt ved akutte situationer. Uden for normal arbejdstid tillægges vagttillæg.",
   },
   {
     question: "Hvor hurtigt kan I komme ud?",
@@ -117,7 +117,7 @@ export default function KontaktClient() {
 
       <PageHeader
         title="Kontakt os"
-        description="Vi er altid klar til at hjælpe. Ring til os, send en mail eller udfyld formularen, og vi vender tilbage hurtigst muligt."
+        description="Vi er altid klar til at hjælpe. Kontakt os, send en mail eller udfyld formularen, og vi vender tilbage hurtigst muligt."
         breadcrumbItems={[
           { label: "Forside", href: "/" },
           { label: "Kontakt" },
@@ -190,7 +190,7 @@ export default function KontaktClient() {
                       </svg>
                       <div>
                         <p className="font-heading text-gray-900">Telefon</p>
-                        <p className="text-gray-600 text-sm">[TELEFON]</p>
+                        <p className="text-gray-600 text-sm"></p>
                         <p className="text-gray-500 text-xs mt-1">Akut VVS: Døgnvagt</p>
                       </div>
                     </div>
@@ -370,7 +370,7 @@ export default function KontaktClient() {
       </section>
 
       <CTASection
-        title="Ring til os nu"
+        title="Kontakt os nu"
         description="Vi er klar til at hjælpe dig med dit VVS-projekt i Silkeborg."
       />
     </>

@@ -4,7 +4,7 @@ import KloakClient from "./KloakClient";
 export const metadata: Metadata = {
   title: "Kloak Silkeborg | Kloakrenovering og afløbsarbejde",
   description:
-    "Professionelt kloakarbejde i Silkeborg. Kloakseparering, kloakrenovering, TV-inspektion, afløbsrensning og dræning. Autoriseret kloakmester. Ring [TELEFON].",
+    "Professionelt kloakarbejde i Silkeborg. Kloakseparering, kloakrenovering, TV-inspektion, afløbsrensning og dræning. Autoriseret kloakmester. Kontakt os.",
   alternates: {
     canonical: "https://silkeborg-vvs.dk/kloak-afloeb",
     languages: { "da-DK": "https://silkeborg-vvs.dk/kloak-afloeb" },
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Kloak Silkeborg | Kloakrenovering og afløbsarbejde",
-    description: "Professionelt kloakarbejde i Silkeborg. Kloakseparering, TV-inspektion og afløbsrensning. Autoriseret kloakmester. Ring for tilbud.",
+    description: "Professionelt kloakarbejde i Silkeborg. Kloakseparering, TV-inspektion og afløbsrensning. Autoriseret kloakmester. Kontakt os for tilbud.",
     images: ["/images/kloakreparation-1.jpg"],
   },
   openGraph: {

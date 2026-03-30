@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     template: "%s | [FIRMA NAVN] — VVS Silkeborg",
   },
   description:
-    "Autoriseret VVS-installatør i Silkeborg. Vi tilbyder VVS-installation, varmepumper, blikkenslagerarbejde, akut VVS og kloak. Ring i dag: [TELEFON]",
+    "Autoriseret VVS-installatør i Silkeborg. Vi tilbyder VVS-installation, varmepumper, blikkenslagerarbejde, akut VVS og kloak. Kontakt os i dag",
   keywords: [
     "vvs silkeborg",
     "vvs installatør silkeborg",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "VVS Silkeborg | Autoriseret VVS-installatør — [FIRMA NAVN]",
     description:
-      "Autoriseret VVS-installatør i Silkeborg. Vi tilbyder VVS-installation, varmepumper, blikkenslagerarbejde, akut VVS og kloak. Ring i dag: [TELEFON]",
+      "Autoriseret VVS-installatør i Silkeborg. Vi tilbyder VVS-installation, varmepumper, blikkenslagerarbejde, akut VVS og kloak. Kontakt os i dag",
     images: ["/images/vvs-vaerktoj-1.jpg"],
   },
   openGraph: {
