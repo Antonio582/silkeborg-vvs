@@ -133,7 +133,23 @@ export default function KontaktClient() {
                 <h2 className="font-heading text-2xl text-gray-900 mb-6">
                   Send os en besked
                 </h2>
-                <form className="space-y-8" action="#" method="POST">
+                <form className="space-y-8" onSubmit={async (e) => {
+                    e.preventDefault();
+                    const fd = new FormData(e.currentTarget);
+                    try {
+                      await fetch("https://haandvaerker-sider-iota.vercel.app/api/contact", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({
+                          name: fd.get("name") || "",
+                          email: fd.get("email") || "",
+                          message: fd.get("message") || "",
+                          source: "silkeborg-vvs.dk",
+                        }),
+                      });
+                    } catch {}
+                    alert("Tak for din besked! Vi vender tilbage hurtigst muligt.");
+                  }}>
                   <FormField label="Navn" name="name" required />
                   <FormField label="E-mail" name="email" type="email" required />
                   <FormField label="Telefon" name="phone" type="tel" />
