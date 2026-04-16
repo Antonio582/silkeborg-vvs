@@ -137,7 +137,7 @@ export default function KontaktClient() {
                     e.preventDefault();
                     const fd = new FormData(e.currentTarget);
                     try {
-                      await fetch("https://haandvaerker-sider-iota.vercel.app/api/contact", {
+                      await fetch("/api/contact", {
                         method: "POST",
                         headers: { "Content-Type": "application/json" },
                         body: JSON.stringify({
